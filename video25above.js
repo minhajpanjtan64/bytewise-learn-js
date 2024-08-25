@@ -88,3 +88,8 @@ iceTeaPrice <= 80 ? console.log("less than 80") : console.log("more than 80")
 
 // for ternARY OPERATIR Syntax
 // CONDITION ? TRUE : FALSE
+
+
+let num1=2;
+let num2=0;
+(num1>num2) ? console.log("greater"):console.log("not greater");
